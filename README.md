@@ -1,2 +1,2 @@
-# _test_github
+# Test GitHub
  Git, GitHub and GitHub Desktop test
