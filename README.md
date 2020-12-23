@@ -8,8 +8,8 @@
  ##Title2
  ***
  ###Title3
- ---
- etc
+ 
+ 
  
 **Bold**
 __Bold__
@@ -18,3 +18,9 @@ __Bold__
 _Italic_
 
 
+
+List
+1. Test
+1. Test2
+1. test3
+   1.sub
