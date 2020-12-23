@@ -2,9 +2,13 @@
  Git, GitHub and GitHub Desktop test
  
  *Test Markdown
+ ---
  #Title1
+ ***
  ##Title2
- ###Title3 
+ ***
+ ###Title3
+ ---
  etc
  
 **Bold**
